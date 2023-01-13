@@ -1,6 +1,7 @@
 # AngularGoogleAuth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Implement a basic Google Sign In with lib: @abacritt/angularx-social-login and check authentication with an Angular Guard. 
 
 ## Development server
 
